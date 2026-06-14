@@ -8,7 +8,7 @@ const DEFAULT_BANKS = [
   {
     id: "1",
     bankName: "Dutch-Bangla Bank",
-    accountHolder: "Rafiq Ahmed",
+    accountHolder: "Zakaria Rupto",
     accountNo: "2054100012345",
     balance: 125000,
     color: 0,
@@ -16,7 +16,7 @@ const DEFAULT_BANKS = [
   {
     id: "2",
     bankName: "BRAC Bank",
-    accountHolder: "Rafiq Ahmed",
+    accountHolder: "Zakaria Ahmed",
     accountNo: "1502300067890",
     balance: 87500,
     color: 1,
@@ -24,7 +24,7 @@ const DEFAULT_BANKS = [
   {
     id: "3",
     bankName: "Islami Bank",
-    accountHolder: "Rafiq Ahmed",
+    accountHolder: "Rupto Ahmed",
     accountNo: "2010500034567",
     balance: 210000,
     color: 2,
@@ -32,11 +32,11 @@ const DEFAULT_BANKS = [
 ];
 
 const MOCK_USER = {
-  name: "Rafiq Ahmed",
-  email: "rafiq.ahmed@email.com",
+  name: "Rupto Islam",
+  email: "rupto.ahmed@email.com",
   phone: "+880 1712-345678",
   avatar: null,
-  initials: "RA",
+  initials: "ZR",
 };
 
 const MOCK_TRANSACTIONS = [
